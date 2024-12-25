@@ -1,0 +1,250 @@
+{
+  "version": 3,
+  "targets": {
+    "net8.0": {
+      "BaseLibrary/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/BaseLibrary.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/BaseLibrary.dll": {}
+        }
+      },
+      "ClientLibrary/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/ClientLibrary.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ClientLibrary.dll": {}
+        }
+      }
+    },
+    "net8.0/browser-wasm": {
+      "BaseLibrary/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/BaseLibrary.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/BaseLibrary.dll": {}
+        }
+      },
+      "ClientLibrary/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/ClientLibrary.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ClientLibrary.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BaseLibrary/1.0.0": {
+      "type": "project",
+      "path": "../BaseLibrary/BaseLibrary.csproj",
+      "msbuildProject": "../BaseLibrary/BaseLibrary.csproj"
+    },
+    "ClientLibrary/1.0.0": {
+      "type": "project",
+      "path": "../ClientLibrary/ClientLibrary.csproj",
+      "msbuildProject": "../ClientLibrary/ClientLibrary.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net8.0": [
+      "BaseLibrary >= 1.0.0",
+      "ClientLibrary >= 1.0.0",
+      "Microsoft.AspNetCore.Components.WebAssembly >= 8.0.11",
+      "Microsoft.AspNetCore.Components.WebAssembly.DevServer >= 8.0.11",
+      "Microsoft.NET.ILLink.Tasks >= 8.0.11",
+      "Microsoft.NET.Sdk.WebAssembly.Pack >= 9.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\User\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\User\\source\\repos\\EmployeeManagement\\Client\\Client.csproj",
+      "projectName": "Client",
+      "projectPath": "C:\\Users\\User\\source\\repos\\EmployeeManagement\\Client\\Client.csproj",
+      "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\User\\source\\repos\\EmployeeManagement\\Client\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net8.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "projectReferences": {
+            "C:\\Users\\User\\source\\repos\\EmployeeManagement\\BaseLibrary\\BaseLibrary.csproj": {
+              "projectPath": "C:\\Users\\User\\source\\repos\\EmployeeManagement\\BaseLibrary\\BaseLibrary.csproj"
+            },
+            "C:\\Users\\User\\source\\repos\\EmployeeManagement\\ClientLibrary\\ClientLibrary.csproj": {
+              "projectPath": "C:\\Users\\User\\source\\repos\\EmployeeManagement\\ClientLibrary\\ClientLibrary.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
+      },
+      "SdkAnalysisLevel": "9.0.100"
+    },
+    "frameworks": {
+      "net8.0": {
+        "targetAlias": "net8.0",
+        "dependencies": {
+          "Microsoft.AspNetCore.Components.WebAssembly": {
+            "target": "Package",
+            "version": "[8.0.11, )"
+          },
+          "Microsoft.AspNetCore.Components.WebAssembly.DevServer": {
+            "suppressParent": "All",
+            "target": "Package",
+            "version": "[8.0.11, )"
+          },
+          "Microsoft.NET.ILLink.Tasks": {
+            "suppressParent": "All",
+            "target": "Package",
+            "version": "[8.0.11, )",
+            "autoReferenced": true
+          },
+          "Microsoft.NET.Sdk.WebAssembly.Pack": {
+            "suppressParent": "All",
+            "target": "Package",
+            "version": "[9.0.0, )",
+            "autoReferenced": true
+          }
+        },
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.101/PortableRuntimeIdentifierGraph.json"
+      }
+    },
+    "runtimes": {
+      "browser-wasm": {
+        "#import": []
+      }
+    }
+  },
+  "logs": [
+    {
+      "code": "NU1100",
+      "level": "Error",
+      "message": "Unable to resolve 'Microsoft.NET.Sdk.WebAssembly.Pack (>= 9.0.0)' for 'net8.0'. PackageSourceMapping is enabled, the following source(s) were not considered: C:\\Program Files\\dotnet\\library-packs, Microsoft Visual Studio Offline Packages, nuget.org.",
+      "libraryId": "Microsoft.NET.Sdk.WebAssembly.Pack",
+      "targetGraphs": [
+        "net8.0"
+      ]
+    },
+    {
+      "code": "NU1100",
+      "level": "Error",
+      "message": "Unable to resolve 'Microsoft.AspNetCore.Components.WebAssembly (>= 8.0.11)' for 'net8.0'. PackageSourceMapping is enabled, the following source(s) were not considered: C:\\Program Files\\dotnet\\library-packs, Microsoft Visual Studio Offline Packages, nuget.org.",
+      "libraryId": "Microsoft.AspNetCore.Components.WebAssembly",
+      "targetGraphs": [
+        "net8.0"
+      ]
+    },
+    {
+      "code": "NU1100",
+      "level": "Error",
+      "message": "Unable to resolve 'Microsoft.NET.ILLink.Tasks (>= 8.0.11)' for 'net8.0'. PackageSourceMapping is enabled, the following source(s) were not considered: C:\\Program Files\\dotnet\\library-packs, Microsoft Visual Studio Offline Packages, nuget.org.",
+      "libraryId": "Microsoft.NET.ILLink.Tasks",
+      "targetGraphs": [
+        "net8.0"
+      ]
+    },
+    {
+      "code": "NU1100",
+      "level": "Error",
+      "message": "Unable to resolve 'Microsoft.AspNetCore.Components.WebAssembly.DevServer (>= 8.0.11)' for 'net8.0'. PackageSourceMapping is enabled, the following source(s) were not considered: C:\\Program Files\\dotnet\\library-packs, Microsoft Visual Studio Offline Packages, nuget.org.",
+      "libraryId": "Microsoft.AspNetCore.Components.WebAssembly.DevServer",
+      "targetGraphs": [
+        "net8.0"
+      ]
+    },
+    {
+      "code": "NU1100",
+      "level": "Error",
+      "message": "Unable to resolve 'Microsoft.NET.Sdk.WebAssembly.Pack (>= 9.0.0)' for 'net8.0/browser-wasm'. PackageSourceMapping is enabled, the following source(s) were not considered: C:\\Program Files\\dotnet\\library-packs, Microsoft Visual Studio Offline Packages, nuget.org.",
+      "libraryId": "Microsoft.NET.Sdk.WebAssembly.Pack",
+      "targetGraphs": [
+        "net8.0/browser-wasm"
+      ]
+    },
+    {
+      "code": "NU1100",
+      "level": "Error",
+      "message": "Unable to resolve 'Microsoft.AspNetCore.Components.WebAssembly (>= 8.0.11)' for 'net8.0/browser-wasm'. PackageSourceMapping is enabled, the following source(s) were not considered: C:\\Program Files\\dotnet\\library-packs, Microsoft Visual Studio Offline Packages, nuget.org.",
+      "libraryId": "Microsoft.AspNetCore.Components.WebAssembly",
+      "targetGraphs": [
+        "net8.0/browser-wasm"
+      ]
+    },
+    {
+      "code": "NU1100",
+      "level": "Error",
+      "message": "Unable to resolve 'Microsoft.NET.ILLink.Tasks (>= 8.0.11)' for 'net8.0/browser-wasm'. PackageSourceMapping is enabled, the following source(s) were not considered: C:\\Program Files\\dotnet\\library-packs, Microsoft Visual Studio Offline Packages, nuget.org.",
+      "libraryId": "Microsoft.NET.ILLink.Tasks",
+      "targetGraphs": [
+        "net8.0/browser-wasm"
+      ]
+    },
+    {
+      "code": "NU1100",
+      "level": "Error",
+      "message": "Unable to resolve 'Microsoft.AspNetCore.Components.WebAssembly.DevServer (>= 8.0.11)' for 'net8.0/browser-wasm'. PackageSourceMapping is enabled, the following source(s) were not considered: C:\\Program Files\\dotnet\\library-packs, Microsoft Visual Studio Offline Packages, nuget.org.",
+      "libraryId": "Microsoft.AspNetCore.Components.WebAssembly.DevServer",
+      "targetGraphs": [
+        "net8.0/browser-wasm"
+      ]
+    }
+  ]
+}
