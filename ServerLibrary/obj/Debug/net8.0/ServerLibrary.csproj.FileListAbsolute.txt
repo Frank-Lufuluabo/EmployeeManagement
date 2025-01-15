@@ -13,3 +13,6 @@ C:\Users\User\source\repos\EmployeeManagement\ServerLibrary\obj\Debug\net8.0\ref
 C:\Users\User\source\repos\EmployeeManagement\ServerLibrary\bin\Debug\net8.0\ServerLibrary.runtimeconfig.json
 C:\Users\User\source\repos\EmployeeManagement\ServerLibrary\obj\Debug\net8.0\ServerLibrary.csproj.AssemblyReference.cache
 C:\Users\User\source\repos\EmployeeManagement\ServerLibrary\obj\Debug\net8.0\ServerLibrary.genruntimeconfig.cache
+C:\Users\User\source\repos\EmployeeManagement\ServerLibrary\bin\Debug\net8.0\BaseLibrary.dll
+C:\Users\User\source\repos\EmployeeManagement\ServerLibrary\bin\Debug\net8.0\BaseLibrary.pdb
+C:\Users\User\source\repos\EmployeeManagement\ServerLibrary\obj\Debug\net8.0\ServerLi.AF94C59E.Up2Date
