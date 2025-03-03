@@ -3,28 +3,44 @@
   "WorkspaceRootPath": "C:\\Users\\User\\source\\repos\\EmployeeManagement\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{CD709F1A-C7B1-40AF-ADA9-219C88E42FA7}|ServerLibrary\\ServerLibrary.csproj|c:\\users\\user\\source\\repos\\employeemanagement\\serverlibrary\\repositories\\implementations\\useraccountrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CD709F1A-C7B1-40AF-ADA9-219C88E42FA7}|ServerLibrary\\ServerLibrary.csproj|solutionrelative:serverlibrary\\repositories\\implementations\\useraccountrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C39FCA71-7743-4B1A-A781-79D5CC738C55}|BaseLibrary\\BaseLibrary.csproj|c:\\users\\user\\source\\repos\\employeemanagement\\baselibrary\\dtos\\customuserclaims.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C39FCA71-7743-4B1A-A781-79D5CC738C55}|BaseLibrary\\BaseLibrary.csproj|solutionrelative:baselibrary\\dtos\\customuserclaims.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F73FA2B4-331F-49A4-8ED4-501CDE1CC595}|Server\\Server.csproj|c:\\users\\user\\source\\repos\\employeemanagement\\server\\controllers\\authenticationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F73FA2B4-331F-49A4-8ED4-501CDE1CC595}|Server\\Server.csproj|solutionrelative:server\\controllers\\authenticationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{88C5EAFF-A112-40DD-88EE-75CC3BB98ABB}|ClientLibrary\\ClientLibrary.csproj|c:\\users\\user\\source\\repos\\employeemanagement\\clientlibrary\\helpers\\customauthenticationstateprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88C5EAFF-A112-40DD-88EE-75CC3BB98ABB}|ClientLibrary\\ClientLibrary.csproj|solutionrelative:clientlibrary\\helpers\\customauthenticationstateprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CD709F1A-C7B1-40AF-ADA9-219C88E42FA7}|ServerLibrary\\ServerLibrary.csproj|c:\\users\\user\\source\\repos\\employeemanagement\\serverlibrary\\repositories\\contracts\\iuseraccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CD709F1A-C7B1-40AF-ADA9-219C88E42FA7}|ServerLibrary\\ServerLibrary.csproj|solutionrelative:serverlibrary\\repositories\\contracts\\iuseraccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C39FCA71-7743-4B1A-A781-79D5CC738C55}|BaseLibrary\\BaseLibrary.csproj|c:\\users\\user\\source\\repos\\employeemanagement\\baselibrary\\dtos\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C39FCA71-7743-4B1A-A781-79D5CC738C55}|BaseLibrary\\BaseLibrary.csproj|solutionrelative:baselibrary\\dtos\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C39FCA71-7743-4B1A-A781-79D5CC738C55}|BaseLibrary\\BaseLibrary.csproj|c:\\users\\user\\source\\repos\\employeemanagement\\baselibrary\\entities\\refreshtokeninfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C39FCA71-7743-4B1A-A781-79D5CC738C55}|BaseLibrary\\BaseLibrary.csproj|solutionrelative:baselibrary\\entities\\refreshtokeninfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{88C5EAFF-A112-40DD-88EE-75CC3BB98ABB}|ClientLibrary\\ClientLibrary.csproj|c:\\users\\user\\source\\repos\\employeemanagement\\clientlibrary\\services\\contracts\\iuseraccountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88C5EAFF-A112-40DD-88EE-75CC3BB98ABB}|ClientLibrary\\ClientLibrary.csproj|solutionrelative:clientlibrary\\services\\contracts\\iuseraccountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C39FCA71-7743-4B1A-A781-79D5CC738C55}|BaseLibrary\\BaseLibrary.csproj|c:\\users\\user\\source\\repos\\employeemanagement\\baselibrary\\dtos\\refreshtoken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C39FCA71-7743-4B1A-A781-79D5CC738C55}|BaseLibrary\\BaseLibrary.csproj|solutionrelative:baselibrary\\dtos\\refreshtoken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F73FA2B4-331F-49A4-8ED4-501CDE1CC595}|Server\\Server.csproj|c:\\users\\user\\source\\repos\\employeemanagement\\server\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F73FA2B4-331F-49A4-8ED4-501CDE1CC595}|Server\\Server.csproj|solutionrelative:server\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CD709F1A-C7B1-40AF-ADA9-219C88E42FA7}|ServerLibrary\\ServerLibrary.csproj|c:\\users\\user\\source\\repos\\employeemanagement\\serverlibrary\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CD709F1A-C7B1-40AF-ADA9-219C88E42FA7}|ServerLibrary\\ServerLibrary.csproj|solutionrelative:serverlibrary\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{88C5EAFF-A112-40DD-88EE-75CC3BB98ABB}|ClientLibrary\\ClientLibrary.csproj|c:\\users\\user\\source\\repos\\employeemanagement\\clientlibrary\\services\\implementations\\useraccountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88C5EAFF-A112-40DD-88EE-75CC3BB98ABB}|ClientLibrary\\ClientLibrary.csproj|solutionrelative:clientlibrary\\services\\implementations\\useraccountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C39FCA71-7743-4B1A-A781-79D5CC738C55}|BaseLibrary\\BaseLibrary.csproj|c:\\users\\user\\source\\repos\\employeemanagement\\baselibrary\\dtos\\usersession.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C39FCA71-7743-4B1A-A781-79D5CC738C55}|BaseLibrary\\BaseLibrary.csproj|solutionrelative:baselibrary\\dtos\\usersession.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88C5EAFF-A112-40DD-88EE-75CC3BB98ABB}|ClientLibrary\\ClientLibrary.csproj|c:\\users\\user\\source\\repos\\employeemanagement\\clientlibrary\\helpers\\serializations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88C5EAFF-A112-40DD-88EE-75CC3BB98ABB}|ClientLibrary\\ClientLibrary.csproj|solutionrelative:clientlibrary\\helpers\\serializations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88C5EAFF-A112-40DD-88EE-75CC3BB98ABB}|ClientLibrary\\ClientLibrary.csproj|c:\\users\\user\\source\\repos\\employeemanagement\\clientlibrary\\helpers\\localstorageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88C5EAFF-A112-40DD-88EE-75CC3BB98ABB}|ClientLibrary\\ClientLibrary.csproj|solutionrelative:clientlibrary\\helpers\\localstorageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88C5EAFF-A112-40DD-88EE-75CC3BB98ABB}|ClientLibrary\\ClientLibrary.csproj|c:\\users\\user\\source\\repos\\employeemanagement\\clientlibrary\\helpers\\gethttpclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88C5EAFF-A112-40DD-88EE-75CC3BB98ABB}|ClientLibrary\\ClientLibrary.csproj|solutionrelative:clientlibrary\\helpers\\gethttpclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -33,8 +49,8 @@
       "VerticalTabListWidth": 256,
       "DocumentGroups": [
         {
-          "DockedHeight": 298,
-          "SelectedChildIndex": 9,
+          "DockedHeight": 376,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -54,94 +70,152 @@
             },
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
-            {
-              "$type": "Bookmark",
               "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "AuthenticationController.cs",
-              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\EmployeeManagement\\Server\\Controllers\\AuthenticationController.cs",
-              "RelativeDocumentMoniker": "Server\\Controllers\\AuthenticationController.cs",
-              "ToolTip": "C:\\Users\\User\\source\\repos\\EmployeeManagement\\Server\\Controllers\\AuthenticationController.cs",
-              "RelativeToolTip": "Server\\Controllers\\AuthenticationController.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAuwCAAAAAeAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "CustomUserClaims.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\EmployeeManagement\\BaseLibrary\\DTOs\\CustomUserClaims.cs",
+              "RelativeDocumentMoniker": "BaseLibrary\\DTOs\\CustomUserClaims.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\EmployeeManagement\\BaseLibrary\\DTOs\\CustomUserClaims.cs",
+              "RelativeToolTip": "BaseLibrary\\DTOs\\CustomUserClaims.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-15T22:31:46.255Z",
+              "WhenOpened": "2025-03-03T21:43:58.193Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CustomAuthenticationStateProvider.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\EmployeeManagement\\ClientLibrary\\Helpers\\CustomAuthenticationStateProvider.cs",
+              "RelativeDocumentMoniker": "ClientLibrary\\Helpers\\CustomAuthenticationStateProvider.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\EmployeeManagement\\ClientLibrary\\Helpers\\CustomAuthenticationStateProvider.cs",
+              "RelativeToolTip": "ClientLibrary\\Helpers\\CustomAuthenticationStateProvider.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAABcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T21:20:38.641Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "GetHttpClient.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\EmployeeManagement\\ClientLibrary\\Helpers\\GetHttpClient.cs",
+              "RelativeDocumentMoniker": "ClientLibrary\\Helpers\\GetHttpClient.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\EmployeeManagement\\ClientLibrary\\Helpers\\GetHttpClient.cs",
+              "RelativeToolTip": "ClientLibrary\\Helpers\\GetHttpClient.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T20:16:05.129Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "LocalStorageService.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\EmployeeManagement\\ClientLibrary\\Helpers\\LocalStorageService.cs",
+              "RelativeDocumentMoniker": "ClientLibrary\\Helpers\\LocalStorageService.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\EmployeeManagement\\ClientLibrary\\Helpers\\LocalStorageService.cs",
+              "RelativeToolTip": "ClientLibrary\\Helpers\\LocalStorageService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T20:02:03.059Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Serializations.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\EmployeeManagement\\ClientLibrary\\Helpers\\Serializations.cs",
+              "RelativeDocumentMoniker": "ClientLibrary\\Helpers\\Serializations.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\EmployeeManagement\\ClientLibrary\\Helpers\\Serializations.cs",
+              "RelativeToolTip": "ClientLibrary\\Helpers\\Serializations.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAkAAAB0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T19:48:44.355Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UserSession.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\EmployeeManagement\\BaseLibrary\\DTOs\\UserSession.cs",
+              "RelativeDocumentMoniker": "BaseLibrary\\DTOs\\UserSession.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\EmployeeManagement\\BaseLibrary\\DTOs\\UserSession.cs",
+              "RelativeToolTip": "BaseLibrary\\DTOs\\UserSession.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T19:45:31.998Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "AppDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\EmployeeManagement\\ServerLibrary\\Data\\AppDbContext.cs",
-              "RelativeDocumentMoniker": "ServerLibrary\\Data\\AppDbContext.cs",
-              "ToolTip": "C:\\Users\\User\\source\\repos\\EmployeeManagement\\ServerLibrary\\Data\\AppDbContext.cs",
-              "RelativeToolTip": "ServerLibrary\\Data\\AppDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAA0AAAAAAAAAA==",
+              "Title": "UserAccountService.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\EmployeeManagement\\ClientLibrary\\Services\\Implementations\\UserAccountService.cs",
+              "RelativeDocumentMoniker": "ClientLibrary\\Services\\Implementations\\UserAccountService.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\EmployeeManagement\\ClientLibrary\\Services\\Implementations\\UserAccountService.cs",
+              "RelativeToolTip": "ClientLibrary\\Services\\Implementations\\UserAccountService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAABlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-15T22:09:46.166Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "RefreshTokenInfo.cs",
-              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\EmployeeManagement\\BaseLibrary\\Entities\\RefreshTokenInfo.cs",
-              "RelativeDocumentMoniker": "BaseLibrary\\Entities\\RefreshTokenInfo.cs",
-              "ToolTip": "C:\\Users\\User\\source\\repos\\EmployeeManagement\\BaseLibrary\\Entities\\RefreshTokenInfo.cs",
-              "RelativeToolTip": "BaseLibrary\\Entities\\RefreshTokenInfo.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAWAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-15T22:08:44.591Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "UserAccountRepository.cs",
-              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\EmployeeManagement\\ServerLibrary\\Repositories\\Implementations\\UserAccountRepository.cs",
-              "RelativeDocumentMoniker": "ServerLibrary\\Repositories\\Implementations\\UserAccountRepository.cs",
-              "ToolTip": "C:\\Users\\User\\source\\repos\\EmployeeManagement\\ServerLibrary\\Repositories\\Implementations\\UserAccountRepository.cs",
-              "RelativeToolTip": "ServerLibrary\\Repositories\\Implementations\\UserAccountRepository.cs",
-              "ViewState": "AgIAADoAAAAAAAAAAAAowFcAAAByAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-15T21:43:46.145Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "IUserAccount.cs",
-              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\EmployeeManagement\\ServerLibrary\\Repositories\\Contracts\\IUserAccount.cs",
-              "RelativeDocumentMoniker": "ServerLibrary\\Repositories\\Contracts\\IUserAccount.cs",
-              "ToolTip": "C:\\Users\\User\\source\\repos\\EmployeeManagement\\ServerLibrary\\Repositories\\Contracts\\IUserAccount.cs",
-              "RelativeToolTip": "ServerLibrary\\Repositories\\Contracts\\IUserAccount.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABCAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-15T21:42:25.854Z",
+              "WhenOpened": "2025-03-02T12:12:59.387Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "RefreshToken.cs",
-              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\EmployeeManagement\\BaseLibrary\\DTOs\\RefreshToken.cs",
-              "RelativeDocumentMoniker": "BaseLibrary\\DTOs\\RefreshToken.cs",
-              "ToolTip": "C:\\Users\\User\\source\\repos\\EmployeeManagement\\BaseLibrary\\DTOs\\RefreshToken.cs",
-              "RelativeToolTip": "BaseLibrary\\DTOs\\RefreshToken.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\EmployeeManagement\\Server\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "Server\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\EmployeeManagement\\Server\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "Server\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-15T21:41:29.462Z",
+              "WhenOpened": "2025-03-02T12:10:46.348Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IUserAccountService.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\EmployeeManagement\\ClientLibrary\\Services\\Contracts\\IUserAccountService.cs",
+              "RelativeDocumentMoniker": "ClientLibrary\\Services\\Contracts\\IUserAccountService.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\EmployeeManagement\\ClientLibrary\\Services\\Contracts\\IUserAccountService.cs",
+              "RelativeToolTip": "ClientLibrary\\Services\\Contracts\\IUserAccountService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T12:03:04.843Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\EmployeeManagement\\BaseLibrary\\DTOs\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "BaseLibrary\\DTOs\\WeatherForecast.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\EmployeeManagement\\BaseLibrary\\DTOs\\WeatherForecast.cs",
+              "RelativeToolTip": "BaseLibrary\\DTOs\\WeatherForecast.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T12:09:59.757Z",
               "EditorCaption": ""
             }
           ]
         },
         {
-          "DockedHeight": 102,
+          "DockedHeight": 235,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 230,
           "SelectedChildIndex": -1,
           "Children": [
             {
