@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\User\\source\\repos\\EmployeeManagement\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{F73FA2B4-331F-49A4-8ED4-501CDE1CC595}|Server\\Server.csproj|c:\\users\\user\\source\\repos\\employeemanagement\\server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F73FA2B4-331F-49A4-8ED4-501CDE1CC595}|Server\\Server.csproj|solutionrelative:server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{E0913883-3083-431A-96D8-A951C99FA4C7}|Client\\Client.csproj|c:\\users\\user\\source\\repos\\employeemanagement\\client\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E0913883-3083-431A-96D8-A951C99FA4C7}|Client\\Client.csproj|solutionrelative:client\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F73FA2B4-331F-49A4-8ED4-501CDE1CC595}|Server\\Server.csproj|c:\\users\\user\\source\\repos\\employeemanagement\\server\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{F73FA2B4-331F-49A4-8ED4-501CDE1CC595}|Server\\Server.csproj|solutionrelative:server\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F73FA2B4-331F-49A4-8ED4-501CDE1CC595}|Server\\Server.csproj|c:\\users\\user\\source\\repos\\employeemanagement\\server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F73FA2B4-331F-49A4-8ED4-501CDE1CC595}|Server\\Server.csproj|solutionrelative:server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E0913883-3083-431A-96D8-A951C99FA4C7}|Client\\Client.csproj|c:\\users\\user\\source\\repos\\employeemanagement\\client\\pages\\weather.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -50,7 +50,7 @@
       "DocumentGroups": [
         {
           "DockedHeight": 376,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
@@ -74,7 +74,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\User\\source\\repos\\EmployeeManagement\\Server\\appsettings.json",
               "RelativeDocumentMoniker": "Server\\appsettings.json",
@@ -82,18 +82,17 @@
               "RelativeToolTip": "Server\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-03-13T21:42:32.626Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-13T21:42:32.626Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\User\\source\\repos\\EmployeeManagement\\Server\\Program.cs",
               "RelativeDocumentMoniker": "Server\\Program.cs",
               "ToolTip": "C:\\Users\\User\\source\\repos\\EmployeeManagement\\Server\\Program.cs",
               "RelativeToolTip": "Server\\Program.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAAAACgAAAAsAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-13T21:07:11.134Z",
               "EditorCaption": ""
@@ -108,12 +107,11 @@
               "RelativeToolTip": "Client\\Pages\\Weather.razor",
               "ViewState": "AgIAABUAAAAAAAAAAAAAACQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-13T20:35:32.786Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-13T20:35:32.786Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\User\\source\\repos\\EmployeeManagement\\Client\\Program.cs",
               "RelativeDocumentMoniker": "Client\\Program.cs",
@@ -121,8 +119,7 @@
               "RelativeToolTip": "Client\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-12T21:45:36.167Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-12T21:45:36.167Z"
             },
             {
               "$type": "Document",
@@ -170,8 +167,7 @@
               "RelativeToolTip": "Client\\Layout\\MainLayout.razor",
               "ViewState": "AgIAAAEAAAAAAAAAAAAswBIAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-04T21:16:47.334Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-04T21:16:47.334Z"
             },
             {
               "$type": "Document",
