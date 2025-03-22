@@ -2,8 +2,8 @@
 @layout AuthenticationLayout
 <div class="container">
     <div class="row">
-        <div class="col-lg-5"></div>
-        <div class="col-lg-2">
+        <div class="col-lg-4"></div>
+        <div class="col-lg-4">
             <EditForm Enhance Model="User" OnInvalidSubmit="HandleRegistration">
                 <DataAnnotationsValidator />
                 <div class="card bg-dark d-flex justify-content-center" style="opacity:0.5; margin-top:50%; border-radius:10px; color: white; font-weight: bold">
@@ -18,7 +18,7 @@
                     </div>
                     <div class="card-body">
                         <div class="form-group">
-                            <label class="form-label"></label>
+                            <label class="form-label">Fullname</label>
                             <InputText @bind-Value="User.Fullname" class="form-control"></InputText>
                         </div>
                         <div class="form-group mt3">
@@ -34,12 +34,19 @@
                             <input type="password" @bind="User.Password" class="form-control"></input>
                         </div>
                         <div class="form-group mt-3 text-center">
-                            <button class="btn btn-outline-primary "type="submit">Register</button>
+                            @if (ShowLoadingButton)
+                            {
+                                <ButtonLoadingSpinner></ButtonLoadingSpinner>
+                            }
+                            else
+                            {
+                                <button class="btn btn-outline-primary " type="submit">Register</button>
+                            }
                         </div>
                     </div>
                     <div class="card-footer">
                         <span class="text-center">
-                            Don't have account? |
+                            Have account already? |
                             <a class="btn-link" href="identity/account/register">Sign Up</a>
                         </span>
                         <ValidationSummary />
@@ -47,17 +54,19 @@
                 </div>
             </EditForm>
         </div>
-        <div class="col-lg-5">
+        <div class="col-lg-4">
 
         </div>
-     </div>
- </div>
+    </div>
+</div>
 
 @code {
+    public bool ShowLoadingButton { get; set; } = false;
     Register User = new();
 
     async Task HandleRegistration()
     {
+        ShowLoadingButton = true;
         var result = await accountService.CreateAsync(User);
         if (result.Flag)
         {
@@ -67,5 +76,6 @@
         {
 
         }
+        ShowLoadingButton = false;
     }
 }
