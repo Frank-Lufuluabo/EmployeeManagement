@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\User\\source\\repos\\EmployeeManagement\\BaseLibrary\\BaseLibrary.csproj": {}
+    "C:\\Users\\User\\Desktop\\WorkSpace\\EmployeeManagement\\BaseLibrary\\BaseLibrary.csproj": {}
   },
   "projects": {
-    "C:\\Users\\User\\source\\repos\\EmployeeManagement\\BaseLibrary\\BaseLibrary.csproj": {
+    "C:\\Users\\User\\Desktop\\WorkSpace\\EmployeeManagement\\BaseLibrary\\BaseLibrary.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\User\\source\\repos\\EmployeeManagement\\BaseLibrary\\BaseLibrary.csproj",
+        "projectUniqueName": "C:\\Users\\User\\Desktop\\WorkSpace\\EmployeeManagement\\BaseLibrary\\BaseLibrary.csproj",
         "projectName": "BaseLibrary",
-        "projectPath": "C:\\Users\\User\\source\\repos\\EmployeeManagement\\BaseLibrary\\BaseLibrary.csproj",
+        "projectPath": "C:\\Users\\User\\Desktop\\WorkSpace\\EmployeeManagement\\BaseLibrary\\BaseLibrary.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\User\\source\\repos\\EmployeeManagement\\BaseLibrary\\obj\\",
+        "outputPath": "C:\\Users\\User\\Desktop\\WorkSpace\\EmployeeManagement\\BaseLibrary\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

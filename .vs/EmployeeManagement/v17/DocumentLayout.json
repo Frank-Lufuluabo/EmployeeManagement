@@ -1,57 +1,57 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\User\\source\\repos\\EmployeeManagement\\",
+  "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\WorkSpace\\EmployeeManagement\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E0913883-3083-431A-96D8-A951C99FA4C7}|Client\\Client.csproj|c:\\users\\user\\source\\repos\\employeemanagement\\client\\pages\\authenticationpage.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{E0913883-3083-431A-96D8-A951C99FA4C7}|Client\\Client.csproj|c:\\users\\user\\desktop\\workspace\\employeemanagement\\client\\pages\\authenticationpage.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{E0913883-3083-431A-96D8-A951C99FA4C7}|Client\\Client.csproj|solutionrelative:client\\pages\\authenticationpage.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E0913883-3083-431A-96D8-A951C99FA4C7}|Client\\Client.csproj|c:\\users\\user\\source\\repos\\employeemanagement\\client\\layout\\authenticationlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{E0913883-3083-431A-96D8-A951C99FA4C7}|Client\\Client.csproj|c:\\users\\user\\desktop\\workspace\\employeemanagement\\client\\layout\\authenticationlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{E0913883-3083-431A-96D8-A951C99FA4C7}|Client\\Client.csproj|solutionrelative:client\\layout\\authenticationlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E0913883-3083-431A-96D8-A951C99FA4C7}|Client\\Client.csproj|c:\\users\\user\\source\\repos\\employeemanagement\\client\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E0913883-3083-431A-96D8-A951C99FA4C7}|Client\\Client.csproj|solutionrelative:client\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E0913883-3083-431A-96D8-A951C99FA4C7}|Client\\Client.csproj|c:\\users\\user\\desktop\\workspace\\employeemanagement\\client\\pages\\contentpages\\homepage.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E0913883-3083-431A-96D8-A951C99FA4C7}|Client\\Client.csproj|solutionrelative:client\\pages\\contentpages\\homepage.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E0913883-3083-431A-96D8-A951C99FA4C7}|Client\\Client.csproj|c:\\users\\user\\source\\repos\\employeemanagement\\client\\pages\\accountpages\\registerpage.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{E0913883-3083-431A-96D8-A951C99FA4C7}|Client\\Client.csproj|solutionrelative:client\\pages\\accountpages\\registerpage.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E0913883-3083-431A-96D8-A951C99FA4C7}|Client\\Client.csproj|c:\\users\\user\\source\\repos\\employeemanagement\\client\\pages\\accountpages\\loginpage.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{E0913883-3083-431A-96D8-A951C99FA4C7}|Client\\Client.csproj|c:\\users\\user\\desktop\\workspace\\employeemanagement\\client\\pages\\accountpages\\loginpage.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{E0913883-3083-431A-96D8-A951C99FA4C7}|Client\\Client.csproj|solutionrelative:client\\pages\\accountpages\\loginpage.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E0913883-3083-431A-96D8-A951C99FA4C7}|Client\\Client.csproj|c:\\users\\user\\source\\repos\\employeemanagement\\client\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{E0913883-3083-431A-96D8-A951C99FA4C7}|Client\\Client.csproj|solutionrelative:client\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E0913883-3083-431A-96D8-A951C99FA4C7}|Client\\Client.csproj|c:\\users\\user\\source\\repos\\employeemanagement\\client\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{E0913883-3083-431A-96D8-A951C99FA4C7}|Client\\Client.csproj|solutionrelative:client\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E0913883-3083-431A-96D8-A951C99FA4C7}|Client\\Client.csproj|c:\\users\\user\\source\\repos\\employeemanagement\\client\\client.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{E0913883-3083-431A-96D8-A951C99FA4C7}|Client\\Client.csproj|solutionrelative:client\\client.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E0913883-3083-431A-96D8-A951C99FA4C7}|Client\\Client.csproj|c:\\users\\user\\source\\repos\\employeemanagement\\client\\pages\\otherpages\\buttonloadingspinner.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{E0913883-3083-431A-96D8-A951C99FA4C7}|Client\\Client.csproj|c:\\users\\user\\desktop\\workspace\\employeemanagement\\client\\pages\\otherpages\\buttonloadingspinner.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{E0913883-3083-431A-96D8-A951C99FA4C7}|Client\\Client.csproj|solutionrelative:client\\pages\\otherpages\\buttonloadingspinner.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F73FA2B4-331F-49A4-8ED4-501CDE1CC595}|Server\\Server.csproj|c:\\users\\user\\source\\repos\\employeemanagement\\server\\controllers\\authenticationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F73FA2B4-331F-49A4-8ED4-501CDE1CC595}|Server\\Server.csproj|solutionrelative:server\\controllers\\authenticationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E0913883-3083-431A-96D8-A951C99FA4C7}|Client\\Client.csproj|c:\\users\\user\\desktop\\workspace\\employeemanagement\\client\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E0913883-3083-431A-96D8-A951C99FA4C7}|Client\\Client.csproj|solutionrelative:client\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E0913883-3083-431A-96D8-A951C99FA4C7}|Client\\Client.csproj|c:\\users\\user\\source\\repos\\employeemanagement\\client\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{E0913883-3083-431A-96D8-A951C99FA4C7}|Client\\Client.csproj|c:\\users\\user\\desktop\\workspace\\employeemanagement\\client\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0913883-3083-431A-96D8-A951C99FA4C7}|Client\\Client.csproj|solutionrelative:client\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0913883-3083-431A-96D8-A951C99FA4C7}|Client\\Client.csproj|c:\\users\\user\\desktop\\workspace\\employeemanagement\\client\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{E0913883-3083-431A-96D8-A951C99FA4C7}|Client\\Client.csproj|solutionrelative:client\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{88C5EAFF-A112-40DD-88EE-75CC3BB98ABB}|ClientLibrary\\ClientLibrary.csproj|c:\\users\\user\\source\\repos\\employeemanagement\\clientlibrary\\services\\implementations\\useraccountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E0913883-3083-431A-96D8-A951C99FA4C7}|Client\\Client.csproj|c:\\users\\user\\desktop\\workspace\\employeemanagement\\client\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E0913883-3083-431A-96D8-A951C99FA4C7}|Client\\Client.csproj|solutionrelative:client\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0913883-3083-431A-96D8-A951C99FA4C7}|Client\\Client.csproj|c:\\users\\user\\desktop\\workspace\\employeemanagement\\client\\pages\\accountpages\\registerpage.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E0913883-3083-431A-96D8-A951C99FA4C7}|Client\\Client.csproj|solutionrelative:client\\pages\\accountpages\\registerpage.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F73FA2B4-331F-49A4-8ED4-501CDE1CC595}|Server\\Server.csproj|c:\\users\\user\\desktop\\workspace\\employeemanagement\\server\\controllers\\authenticationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F73FA2B4-331F-49A4-8ED4-501CDE1CC595}|Server\\Server.csproj|solutionrelative:server\\controllers\\authenticationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88C5EAFF-A112-40DD-88EE-75CC3BB98ABB}|ClientLibrary\\ClientLibrary.csproj|c:\\users\\user\\desktop\\workspace\\employeemanagement\\clientlibrary\\services\\implementations\\useraccountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{88C5EAFF-A112-40DD-88EE-75CC3BB98ABB}|ClientLibrary\\ClientLibrary.csproj|solutionrelative:clientlibrary\\services\\implementations\\useraccountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{88C5EAFF-A112-40DD-88EE-75CC3BB98ABB}|ClientLibrary\\ClientLibrary.csproj|c:\\users\\user\\source\\repos\\employeemanagement\\clientlibrary\\helpers\\customhttphandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{88C5EAFF-A112-40DD-88EE-75CC3BB98ABB}|ClientLibrary\\ClientLibrary.csproj|c:\\users\\user\\desktop\\workspace\\employeemanagement\\clientlibrary\\helpers\\customhttphandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{88C5EAFF-A112-40DD-88EE-75CC3BB98ABB}|ClientLibrary\\ClientLibrary.csproj|solutionrelative:clientlibrary\\helpers\\customhttphandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -62,21 +62,8 @@
       "DocumentGroups": [
         {
           "DockedHeight": 376,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 5,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "AuthenticationPage.razor",
-              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\EmployeeManagement\\Client\\Pages\\AuthenticationPage.razor",
-              "RelativeDocumentMoniker": "Client\\Pages\\AuthenticationPage.razor",
-              "ToolTip": "C:\\Users\\User\\source\\repos\\EmployeeManagement\\Client\\Pages\\AuthenticationPage.razor",
-              "RelativeToolTip": "Client\\Pages\\AuthenticationPage.razor",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-24T21:57:34.17Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:141:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
@@ -99,11 +86,24 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
+              "Title": "AuthenticationPage.razor",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\WorkSpace\\EmployeeManagement\\Client\\Pages\\AuthenticationPage.razor",
+              "RelativeDocumentMoniker": "Client\\Pages\\AuthenticationPage.razor",
+              "ToolTip": "C:\\Users\\User\\Desktop\\WorkSpace\\EmployeeManagement\\Client\\Pages\\AuthenticationPage.razor",
+              "RelativeToolTip": "Client\\Pages\\AuthenticationPage.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-24T21:57:34.17Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\EmployeeManagement\\Client\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\WorkSpace\\EmployeeManagement\\Client\\Program.cs",
               "RelativeDocumentMoniker": "Client\\Program.cs",
-              "ToolTip": "C:\\Users\\User\\source\\repos\\EmployeeManagement\\Client\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\WorkSpace\\EmployeeManagement\\Client\\Program.cs",
               "RelativeToolTip": "Client\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -112,112 +112,114 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Client.csproj",
-              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\EmployeeManagement\\Client\\Client.csproj",
-              "RelativeDocumentMoniker": "Client\\Client.csproj",
-              "ToolTip": "C:\\Users\\User\\source\\repos\\EmployeeManagement\\Client\\Client.csproj",
-              "RelativeToolTip": "Client\\Client.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-03-22T23:14:12.979Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 5,
               "Title": "index.html",
-              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\EmployeeManagement\\Client\\wwwroot\\index.html",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\WorkSpace\\EmployeeManagement\\Client\\wwwroot\\index.html",
               "RelativeDocumentMoniker": "Client\\wwwroot\\index.html",
-              "ToolTip": "C:\\Users\\User\\source\\repos\\EmployeeManagement\\Client\\wwwroot\\index.html",
+              "ToolTip": "C:\\Users\\User\\Desktop\\WorkSpace\\EmployeeManagement\\Client\\wwwroot\\index.html",
               "RelativeToolTip": "Client\\wwwroot\\index.html",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA7AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
               "WhenOpened": "2025-03-22T23:02:44.716Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 4,
               "Title": "ButtonLoadingSpinner.razor",
-              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\EmployeeManagement\\Client\\Pages\\OtherPages\\ButtonLoadingSpinner.razor",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\WorkSpace\\EmployeeManagement\\Client\\Pages\\OtherPages\\ButtonLoadingSpinner.razor",
               "RelativeDocumentMoniker": "Client\\Pages\\OtherPages\\ButtonLoadingSpinner.razor",
-              "ToolTip": "C:\\Users\\User\\source\\repos\\EmployeeManagement\\Client\\Pages\\OtherPages\\ButtonLoadingSpinner.razor",
+              "ToolTip": "C:\\Users\\User\\Desktop\\WorkSpace\\EmployeeManagement\\Client\\Pages\\OtherPages\\ButtonLoadingSpinner.razor",
               "RelativeToolTip": "Client\\Pages\\OtherPages\\ButtonLoadingSpinner.razor",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-22T22:31:10.841Z"
+              "WhenOpened": "2025-03-22T22:31:10.841Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "LoginPage.razor",
-              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\EmployeeManagement\\Client\\Pages\\AccountPages\\LoginPage.razor",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\WorkSpace\\EmployeeManagement\\Client\\Pages\\AccountPages\\LoginPage.razor",
               "RelativeDocumentMoniker": "Client\\Pages\\AccountPages\\LoginPage.razor",
-              "ToolTip": "C:\\Users\\User\\source\\repos\\EmployeeManagement\\Client\\Pages\\AccountPages\\LoginPage.razor",
+              "ToolTip": "C:\\Users\\User\\Desktop\\WorkSpace\\EmployeeManagement\\Client\\Pages\\AccountPages\\LoginPage.razor",
               "RelativeToolTip": "Client\\Pages\\AccountPages\\LoginPage.razor",
-              "ViewState": "AgIAAEIAAAAAAAAAAAAAAE8AAAADAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADsAAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-03-21T22:21:59.141Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 9,
               "Title": "RegisterPage.razor",
-              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\EmployeeManagement\\Client\\Pages\\AccountPages\\RegisterPage.razor",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\WorkSpace\\EmployeeManagement\\Client\\Pages\\AccountPages\\RegisterPage.razor",
               "RelativeDocumentMoniker": "Client\\Pages\\AccountPages\\RegisterPage.razor",
-              "ToolTip": "C:\\Users\\User\\source\\repos\\EmployeeManagement\\Client\\Pages\\AccountPages\\RegisterPage.razor",
+              "ToolTip": "C:\\Users\\User\\Desktop\\WorkSpace\\EmployeeManagement\\Client\\Pages\\AccountPages\\RegisterPage.razor",
               "RelativeToolTip": "Client\\Pages\\AccountPages\\RegisterPage.razor",
-              "ViewState": "AgIAADkAAAAAAAAAAAAAAEsAAAA8AAAAAAAAAA==",
+              "ViewState": "AgIAAEsAAAAAAAAAAAAAAEkAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-20T22:02:24.782Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-20T22:02:24.782Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "AuthenticationLayout.razor",
-              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\EmployeeManagement\\Client\\Layout\\AuthenticationLayout.razor",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\WorkSpace\\EmployeeManagement\\Client\\Layout\\AuthenticationLayout.razor",
               "RelativeDocumentMoniker": "Client\\Layout\\AuthenticationLayout.razor",
-              "ToolTip": "C:\\Users\\User\\source\\repos\\EmployeeManagement\\Client\\Layout\\AuthenticationLayout.razor",
+              "ToolTip": "C:\\Users\\User\\Desktop\\WorkSpace\\EmployeeManagement\\Client\\Layout\\AuthenticationLayout.razor",
               "RelativeToolTip": "Client\\Layout\\AuthenticationLayout.razor",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAIAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-03-21T21:23:21.639Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 7,
               "Title": "NavMenu.razor",
-              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\EmployeeManagement\\Client\\Layout\\NavMenu.razor",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\WorkSpace\\EmployeeManagement\\Client\\Layout\\NavMenu.razor",
               "RelativeDocumentMoniker": "Client\\Layout\\NavMenu.razor",
-              "ToolTip": "C:\\Users\\User\\source\\repos\\EmployeeManagement\\Client\\Layout\\NavMenu.razor",
+              "ToolTip": "C:\\Users\\User\\Desktop\\WorkSpace\\EmployeeManagement\\Client\\Layout\\NavMenu.razor",
               "RelativeToolTip": "Client\\Layout\\NavMenu.razor",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-21T21:21:57.837Z"
+              "WhenOpened": "2025-03-21T21:21:57.837Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 8,
               "Title": "MainLayout.razor",
-              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\EmployeeManagement\\Client\\Layout\\MainLayout.razor",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\WorkSpace\\EmployeeManagement\\Client\\Layout\\MainLayout.razor",
               "RelativeDocumentMoniker": "Client\\Layout\\MainLayout.razor",
-              "ToolTip": "C:\\Users\\User\\source\\repos\\EmployeeManagement\\Client\\Layout\\MainLayout.razor",
+              "ToolTip": "C:\\Users\\User\\Desktop\\WorkSpace\\EmployeeManagement\\Client\\Layout\\MainLayout.razor",
               "RelativeToolTip": "Client\\Layout\\MainLayout.razor",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAlAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-03-21T21:19:57.681Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HomePage.razor",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\WorkSpace\\EmployeeManagement\\Client\\Pages\\ContentPages\\HomePage.razor",
+              "RelativeDocumentMoniker": "Client\\Pages\\ContentPages\\HomePage.razor",
+              "ToolTip": "C:\\Users\\User\\Desktop\\WorkSpace\\EmployeeManagement\\Client\\Pages\\ContentPages\\HomePage.razor",
+              "RelativeToolTip": "Client\\Pages\\ContentPages\\HomePage.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-24T22:09:57.773Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 12,
               "Title": "CustomHttpHandler.cs",
-              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\EmployeeManagement\\ClientLibrary\\Helpers\\CustomHttpHandler.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\WorkSpace\\EmployeeManagement\\ClientLibrary\\Helpers\\CustomHttpHandler.cs",
               "RelativeDocumentMoniker": "ClientLibrary\\Helpers\\CustomHttpHandler.cs",
-              "ToolTip": "C:\\Users\\User\\source\\repos\\EmployeeManagement\\ClientLibrary\\Helpers\\CustomHttpHandler.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\WorkSpace\\EmployeeManagement\\ClientLibrary\\Helpers\\CustomHttpHandler.cs",
               "RelativeToolTip": "ClientLibrary\\Helpers\\CustomHttpHandler.cs",
               "ViewState": "AgIAACIAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -225,11 +227,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "AuthenticationController.cs",
-              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\EmployeeManagement\\Server\\Controllers\\AuthenticationController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\WorkSpace\\EmployeeManagement\\Server\\Controllers\\AuthenticationController.cs",
               "RelativeDocumentMoniker": "Server\\Controllers\\AuthenticationController.cs",
-              "ToolTip": "C:\\Users\\User\\source\\repos\\EmployeeManagement\\Server\\Controllers\\AuthenticationController.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\WorkSpace\\EmployeeManagement\\Server\\Controllers\\AuthenticationController.cs",
               "RelativeToolTip": "Server\\Controllers\\AuthenticationController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -239,9 +241,9 @@
               "$type": "Document",
               "DocumentIndex": 11,
               "Title": "UserAccountService.cs",
-              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\EmployeeManagement\\ClientLibrary\\Services\\Implementations\\UserAccountService.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\WorkSpace\\EmployeeManagement\\ClientLibrary\\Services\\Implementations\\UserAccountService.cs",
               "RelativeDocumentMoniker": "ClientLibrary\\Services\\Implementations\\UserAccountService.cs",
-              "ToolTip": "C:\\Users\\User\\source\\repos\\EmployeeManagement\\ClientLibrary\\Services\\Implementations\\UserAccountService.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\WorkSpace\\EmployeeManagement\\ClientLibrary\\Services\\Implementations\\UserAccountService.cs",
               "RelativeToolTip": "ClientLibrary\\Services\\Implementations\\UserAccountService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAABHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
