@@ -1,0 +1,15 @@
+﻿<h3>ProfileDropDown</h3>
+
+@code 
+{
+    public string ProfileImage { get; set; } = "";
+
+    async Task LogoutClicked()
+    {
+        var logoutModel = new UserSession();
+        var customAuthStateProvider = (CustomAuthenticationStateProvider)AuthStateProvider;
+        await customAuthStateProvider.UpdateAuthenticationState(logoutModel);
+        NavManager.NavigateTo("/identity/account/login", replace: true, forceLoad: true);
+    }
+
+}

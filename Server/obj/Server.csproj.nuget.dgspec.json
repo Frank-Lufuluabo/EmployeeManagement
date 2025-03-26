@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\User\\Desktop\\WorkSpace\\EmployeeManagement\\Server\\Server.csproj": {}
+    "C:\\Users\\User\\source\\repos\\EmployeeManagement\\Server\\Server.csproj": {}
   },
   "projects": {
-    "C:\\Users\\User\\Desktop\\WorkSpace\\EmployeeManagement\\BaseLibrary\\BaseLibrary.csproj": {
+    "C:\\Users\\User\\source\\repos\\EmployeeManagement\\BaseLibrary\\BaseLibrary.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\User\\Desktop\\WorkSpace\\EmployeeManagement\\BaseLibrary\\BaseLibrary.csproj",
+        "projectUniqueName": "C:\\Users\\User\\source\\repos\\EmployeeManagement\\BaseLibrary\\BaseLibrary.csproj",
         "projectName": "BaseLibrary",
-        "projectPath": "C:\\Users\\User\\Desktop\\WorkSpace\\EmployeeManagement\\BaseLibrary\\BaseLibrary.csproj",
+        "projectPath": "C:\\Users\\User\\source\\repos\\EmployeeManagement\\BaseLibrary\\BaseLibrary.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\User\\Desktop\\WorkSpace\\EmployeeManagement\\BaseLibrary\\obj\\",
+        "outputPath": "C:\\Users\\User\\source\\repos\\EmployeeManagement\\BaseLibrary\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -76,14 +76,14 @@
         }
       }
     },
-    "C:\\Users\\User\\Desktop\\WorkSpace\\EmployeeManagement\\ServerLibrary\\ServerLibrary.csproj": {
+    "C:\\Users\\User\\source\\repos\\EmployeeManagement\\ServerLibrary\\ServerLibrary.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\User\\Desktop\\WorkSpace\\EmployeeManagement\\ServerLibrary\\ServerLibrary.csproj",
+        "projectUniqueName": "C:\\Users\\User\\source\\repos\\EmployeeManagement\\ServerLibrary\\ServerLibrary.csproj",
         "projectName": "ServerLibrary",
-        "projectPath": "C:\\Users\\User\\Desktop\\WorkSpace\\EmployeeManagement\\ServerLibrary\\ServerLibrary.csproj",
+        "projectPath": "C:\\Users\\User\\source\\repos\\EmployeeManagement\\ServerLibrary\\ServerLibrary.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\User\\Desktop\\WorkSpace\\EmployeeManagement\\ServerLibrary\\obj\\",
+        "outputPath": "C:\\Users\\User\\source\\repos\\EmployeeManagement\\ServerLibrary\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -105,8 +105,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\User\\Desktop\\WorkSpace\\EmployeeManagement\\BaseLibrary\\BaseLibrary.csproj": {
-                "projectPath": "C:\\Users\\User\\Desktop\\WorkSpace\\EmployeeManagement\\BaseLibrary\\BaseLibrary.csproj"
+              "C:\\Users\\User\\source\\repos\\EmployeeManagement\\BaseLibrary\\BaseLibrary.csproj": {
+                "projectPath": "C:\\Users\\User\\source\\repos\\EmployeeManagement\\BaseLibrary\\BaseLibrary.csproj"
               }
             }
           }
@@ -178,14 +178,14 @@
         }
       }
     },
-    "C:\\Users\\User\\Desktop\\WorkSpace\\EmployeeManagement\\Server\\Server.csproj": {
+    "C:\\Users\\User\\source\\repos\\EmployeeManagement\\Server\\Server.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\User\\Desktop\\WorkSpace\\EmployeeManagement\\Server\\Server.csproj",
+        "projectUniqueName": "C:\\Users\\User\\source\\repos\\EmployeeManagement\\Server\\Server.csproj",
         "projectName": "Server",
-        "projectPath": "C:\\Users\\User\\Desktop\\WorkSpace\\EmployeeManagement\\Server\\Server.csproj",
+        "projectPath": "C:\\Users\\User\\source\\repos\\EmployeeManagement\\Server\\Server.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\User\\Desktop\\WorkSpace\\EmployeeManagement\\Server\\obj\\",
+        "outputPath": "C:\\Users\\User\\source\\repos\\EmployeeManagement\\Server\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -207,11 +207,11 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\User\\Desktop\\WorkSpace\\EmployeeManagement\\BaseLibrary\\BaseLibrary.csproj": {
-                "projectPath": "C:\\Users\\User\\Desktop\\WorkSpace\\EmployeeManagement\\BaseLibrary\\BaseLibrary.csproj"
+              "C:\\Users\\User\\source\\repos\\EmployeeManagement\\BaseLibrary\\BaseLibrary.csproj": {
+                "projectPath": "C:\\Users\\User\\source\\repos\\EmployeeManagement\\BaseLibrary\\BaseLibrary.csproj"
               },
-              "C:\\Users\\User\\Desktop\\WorkSpace\\EmployeeManagement\\ServerLibrary\\ServerLibrary.csproj": {
-                "projectPath": "C:\\Users\\User\\Desktop\\WorkSpace\\EmployeeManagement\\ServerLibrary\\ServerLibrary.csproj"
+              "C:\\Users\\User\\source\\repos\\EmployeeManagement\\ServerLibrary\\ServerLibrary.csproj": {
+                "projectPath": "C:\\Users\\User\\source\\repos\\EmployeeManagement\\ServerLibrary\\ServerLibrary.csproj"
               }
             }
           }
